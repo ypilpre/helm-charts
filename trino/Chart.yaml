@@ -1,0 +1,8 @@
+apiVersion: v2
+description: Distributed SQL query engine for running interactive analytic queries
+name: trino
+version: 353
+home: https://trino.io
+icon: https://trino.io/assets/images/trino-logo/trino-ko_tiny-alt.svg
+sources:
+  - https://github.com/trinodb
